@@ -1,2 +1,3 @@
 helloworld
 cout<<"hello world"<<endl;
+你好
